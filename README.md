@@ -14,6 +14,8 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 本项目需要[node@16](https://nodejs.org/zh-cn/download/releases/) 支持，安装并配置环境变量 然后输入以下命令即可
 
+使用说明 https://juejin.cn/post/7198069618593939493
+
 ```sh
 npm install
 ```
